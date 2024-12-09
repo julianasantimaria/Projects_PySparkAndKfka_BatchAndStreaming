@@ -17,7 +17,7 @@ The environment used is Docker at all times, with no Cloud being used. I created
 
 ## PySpark and Apache Kafka
 
- <img width="2500px" align="right"  src="https://github.com/julianasantimaria/ProjectsTerraform/blob/HTML/IaC.jpeg">
+ <img width="2500px" align="right"  src="https://github.com/julianasantimaria/Projects_PySparkAndKfka_BatchAndStreaming/blob/HTML/image.png">
 
  <br/>
  <br/>
