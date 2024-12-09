@@ -1,6 +1,6 @@
 # PySpark and Apache Kafka projects, with data in Batch and Streaming
 
-This repository contains a series of projects using PySpark and Apache Kafka with various data configurations, such as Batch and Streaming.
+This repository contains a series of projects using PySpark and Apache Kafka with various Data configurations, such as Batch and Streaming.
 
 It also has container scalability and data volume.
 
